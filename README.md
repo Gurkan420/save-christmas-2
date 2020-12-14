@@ -14,7 +14,7 @@ Innan du fortsätter:
 
 Den första sorteringsalgoritmen heter **Bubble Sort**.
 
-Kolla på [detta klipp](https://www.youtube.com/watch?v=xli_FI7CuzA). Förstår du vad som händer?
+Kolla på [detta klipp](https://www.youtubxli_FI7CuzAe.com/watch?v=). Förstår du vad som händer?
 
 Som du ser behöver vi kunna **byta plats på två element i en array**. Hur gör man det?
 

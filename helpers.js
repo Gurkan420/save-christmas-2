@@ -7,6 +7,7 @@ export function randomArray(len, n) {
     // Fyll varje plats i arrayen med ett random heltal
     for (let i = 0; i < a.length; i++) {
         a[i] = randomInt(n)
+
     }
 
     return a
@@ -14,4 +15,11 @@ export function randomArray(len, n) {
 
 function randomInt(n) {
     return Math.floor(Math.random() * (n + 1))
+}
+
+export function swap (a,i,j) {
+let save = a[i]
+a[i] = a[j]
+a[j] = save
+console.log(i)
 }
